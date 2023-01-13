@@ -7,13 +7,6 @@ for(i=0;i<=a;i++)
       count++
     }
   }
-if(count!=2)
-{
-  console.log("prime number");
-}
-else
-{
-  console.log("not a prime number");  
-}
+
 }
 isprime(4);
